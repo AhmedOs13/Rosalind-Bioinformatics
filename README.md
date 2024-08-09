@@ -12,24 +12,6 @@ The repository includes solutions to a variety of problems, covering topics such
 
 Each solution is implemented in Python, with a focus on efficiency and readability. The scripts are organized by problem name, making it easy to find and reference specific solutions.
 
-# Getting Started
-To use the solutions:
-
-#### 1. Clone the repository:
-```
-git clone https://github.com/yourusername/rosalind-bioinformatics.git
-```
-
-#### 2. Navigate to the problem folder you're interested in:
-```
-cd rosalind-bioinformatics/problem-name
-```
-
-#### 3. Run the Python script:
-```
-python problem_name.py
-```
-
 # Contributions
 Contributions are welcome! If you have a more efficient solution or additional problems you'd like to add, feel free to submit a pull request.
 
