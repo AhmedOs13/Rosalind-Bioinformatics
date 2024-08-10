@@ -70,7 +70,7 @@ def read_dna_strands(file_path):
         dna_strands.append(dna_string)
     return dna_strands
 
-file_path = r"C:\Users\DELL\Downloads\rosalind_long (11).txt"
+file_path = input('>> ')
 dna_strands = read_dna_strands(file_path)
 
 # Find and print the shortest superstring
