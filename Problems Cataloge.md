@@ -47,3 +47,5 @@ Feel free to use this catalog as a guide for navigating Rosalind problems and ex
 | LGIS  | Longest Increasing Subsequence                | [INFO](https://rosalind.info/problems/lgis/) | [Solution](https://github.com/AhmedOs13/Rosalind-Bioinformatics/blob/main/Bioinformatics%20Stronghold/23.%20Longest%20Increasing%20Subsequence.py) |
 | LONG  | Genome Assembly as Shortest Superstring       | [INFO](https://rosalind.info/problems/long/) | [Solution](https://github.com/AhmedOs13/Rosalind-Bioinformatics/blob/main/Bioinformatics%20Stronghold/24.%20Genome%20Assembly%20as%20Shortest%20Superstring.py) |
 | PMCH  | Perfect Matchings and RNA Secondary Structures| [INFO](https://rosalind.info/problems/pmch/) | [Solution](https://github.com/AhmedOs13/Rosalind-Bioinformatics/blob/main/Bioinformatics%20Stronghold/25.%20Perfect%20Matchings%20and%20RNA%20Secondary%20Structures.py) |
+| PMCH  | Partial Permutations | [INFO](https://rosalind.info/problems/pmch/) | [Solution](https://github.com/AhmedOs13/Rosalind-Bioinformatics/blob/main/Bioinformatics%20Stronghold/26.%20Partial%20Permutations.py) |
+
