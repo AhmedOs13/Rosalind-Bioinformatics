@@ -48,4 +48,5 @@ Feel free to use this catalog as a guide for navigating Rosalind problems and ex
 | LONG  | Genome Assembly as Shortest Superstring       | [INFO](https://rosalind.info/problems/long/) | [Solution](https://github.com/AhmedOs13/Rosalind-Bioinformatics/blob/main/Bioinformatics%20Stronghold/24.%20Genome%20Assembly%20as%20Shortest%20Superstring.py) |
 | PMCH  | Perfect Matchings and RNA Secondary Structures| [INFO](https://rosalind.info/problems/pmch/) | [Solution](https://github.com/AhmedOs13/Rosalind-Bioinformatics/blob/main/Bioinformatics%20Stronghold/25.%20Perfect%20Matchings%20and%20RNA%20Secondary%20Structures.py) |
 | PMCH  | Partial Permutations | [INFO](https://rosalind.info/problems/pmch/) | [Solution](https://github.com/AhmedOs13/Rosalind-Bioinformatics/blob/main/Bioinformatics%20Stronghold/26.%20Partial%20Permutations.py) |
+| PROB  | Introduction to Random Strings | [INFO](https://rosalind.info/problems/prob/) | [Solution](https://github.com/AhmedOs13/Rosalind-Bioinformatics/blob/main/Bioinformatics%20Stronghold/27.%20Introduction%20to%20Random%20Strings.py) |
 
