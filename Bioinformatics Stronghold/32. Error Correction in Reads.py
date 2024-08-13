@@ -53,10 +53,15 @@ for strand in dna:
     else:
         incorrect.append(strand)
 
+all_possible_correct = []
+for strand in correct:
+    all_possible_correct.append(strand)
+    all_possible_correct.append(revComplement(strand))
+
 # Try to find the closest match with 1 Hamming Distance
 corrected_dna = {}
 for incor_dna in incorrect:
-    for poss_dna in correct:
+    for poss_dna in all_possible_correct:
         if hammingDistance(incor_dna, poss_dna) == 1:
             corrected_dna[incor_dna] = poss_dna
             break
