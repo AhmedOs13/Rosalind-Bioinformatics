@@ -57,3 +57,5 @@ No.   | ID    | Title                                         | INFO     | Solut
 33    | MPRT  | Finding a Protein Motif | [INFO](https://rosalind.info/problems/mprt/) | [Solution](https://github.com/AhmedOs13/Rosalind-Bioinformatics/blob/main/Bioinformatics%20Stronghold/33.%20Finding%20a%20Protein%20Motif.py) |
 34    | KMER  | k-Mer Composition | [INFO](https://rosalind.info/problems/kmer/) | [Solution](https://github.com/AhmedOs13/Rosalind-Bioinformatics/blob/main/Bioinformatics%20Stronghold/34.%20k-Mer%20Composition.py) |
 35    | INOD  | Counting Phylogenetic Ancestors | [INFO](https://rosalind.info/problems/inod/) | [Solution](https://github.com/AhmedOs13/Rosalind-Bioinformatics/blob/main/Bioinformatics%20Stronghold/35.%20Counting%20Phylogenetic%20Ancestors.py) |
+36    | KMP  | Speeding Up Motif Finding | [INFO](https://rosalind.info/problems/kmp/) | [Solution](https://github.com/AhmedOs13/Rosalind-Bioinformatics/blob/main/Bioinformatics%20Stronghold/36.%20Speeding%20Up%20Motif%20Finding.py) |
+
