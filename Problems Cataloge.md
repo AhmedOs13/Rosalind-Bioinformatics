@@ -58,4 +58,4 @@ No.   | ID    | Title                                         | INFO     | Solut
 34    | KMER  | k-Mer Composition | [INFO](https://rosalind.info/problems/kmer/) | [Solution](https://github.com/AhmedOs13/Rosalind-Bioinformatics/blob/main/Bioinformatics%20Stronghold/34.%20k-Mer%20Composition.py) |
 35    | INOD  | Counting Phylogenetic Ancestors | [INFO](https://rosalind.info/problems/inod/) | [Solution](https://github.com/AhmedOs13/Rosalind-Bioinformatics/blob/main/Bioinformatics%20Stronghold/35.%20Counting%20Phylogenetic%20Ancestors.py) |
 36    | KMP  | Speeding Up Motif Finding | [INFO](https://rosalind.info/problems/kmp/) | [Solution](https://github.com/AhmedOs13/Rosalind-Bioinformatics/blob/main/Bioinformatics%20Stronghold/36.%20Speeding%20Up%20Motif%20Finding.py) |
-
+37    | LCSQ  | Finding a Shared Spliced Motif | [INFO](https://rosalind.info/problems/lcsq/) | [Solution](https://github.com/AhmedOs13/Rosalind-Bioinformatics/blob/main/Bioinformatics%20Stronghold/37.%20Finding%20a%20Shared%20Spliced%20Motif.py) |
