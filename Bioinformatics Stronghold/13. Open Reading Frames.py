@@ -48,7 +48,7 @@ def reverseComplement(rna_string):
 # RNA-Protein Conveter
 def rna_to_protein(rna_string):
     string = ''
-    for i in range(0, len(rna_string) - 3):
+    for i in range(0, len(rna_string) - 2):
         codon = rna_string[i:i + 3]
         string += codon_dict.get(codon, '?')
 
