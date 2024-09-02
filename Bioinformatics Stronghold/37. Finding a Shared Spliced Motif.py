@@ -56,6 +56,6 @@ with open(file_path) as txt:
         dna.append(string)
 
 
-lcs = lcs_algo(dna[0], dna[1], len(S1), len(S2))
+lcs = lcs_algo(dna[0], dna[1], len(dna[0]), len(dna[1]))
 print(lcs)
 
