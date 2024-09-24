@@ -69,3 +69,4 @@ No.   | ID    | Title                                         | INFO     | Solut
 45 | REAR | Reversal Distance | [INFO](https://rosalind.info/problems/rear/) | [Solution](https://github.com/AhmedOs13/Rosalind-Bioinformatics/blob/main/Bioinformatics%20Stronghold/45.%20Reversal%20Distance.py) |
 46 | SORT | Sorting by Reversals | [INFO](https://rosalind.info/problems/sort/) | [Solution](https://github.com/AhmedOs13/Rosalind-Bioinformatics/blob/main/Bioinformatics%20Stronghold/46.%20Sorting%20by%20Reversals.py) |
 47 | SPEC | Inferring Protein from Spectrum | [INFO](https://rosalind.info/problems/spec/) | [Solution](https://github.com/AhmedOs13/Rosalind-Bioinformatics/blob/main/Bioinformatics%20Stronghold/47.%20Inferring%20Protein%20from%20Spectrum.py) |
+48 | EDIT | Edit Distance | [INFO](https://rosalind.info/problems/edit/) | [Solution](https://github.com/AhmedOs13/Rosalind-Bioinformatics/blob/main/Bioinformatics%20Stronghold/48.%20Edit%20Distance.py) |
