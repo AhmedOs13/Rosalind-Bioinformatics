@@ -71,3 +71,13 @@ No.   | ID    | Title                                         | INFO     | Solut
 47 | SPEC | Inferring Protein from Spectrum | [INFO](https://rosalind.info/problems/spec/) | [Solution](https://github.com/AhmedOs13/Rosalind-Bioinformatics/blob/main/Bioinformatics%20Stronghold/47.%20Inferring%20Protein%20from%20Spectrum.py) |
 48 | EDIT | Edit Distance | [INFO](https://rosalind.info/problems/edit/) | [Solution](https://github.com/AhmedOs13/Rosalind-Bioinformatics/blob/main/Bioinformatics%20Stronghold/48.%20Edit%20Distance.py) |
 49 | NWCK | Distances in Trees | [INFO](https://rosalind.info/problems/nwck/) | [Solution](https://github.com/AhmedOs13/Rosalind-Bioinformatics/blob/main/Bioinformatics%20Stronghold/49.%20Distances%20in%20Trees.py) |
+
+
+## Algorithmic Heights
+
+No.  | ID    | Title                           | INFO     | Solution     |
+-----|-------|---------------------------------|----------|--------------|
+01   | FIBO  | Fibonacci Numbers   | [INFO](https://rosalind.info/problems/fibo/) | [Solution](https://github.com/AhmedOs13/Rosalind-Bioinformatics/blob/main/Algorithmic%20Heights/01.%20Fibonacci%20Numbers.py) |
+02   | BINS  | Binary Search       | [INFO](https://rosalind.info/problems/bins/) | [Solution](https://github.com/AhmedOs13/Rosalind-Bioinformatics/blob/main/Algorithmic%20Heights/02.%20Binary%20Search.py) |
+03   | DEG   | Degree Array        | [INFO](https://rosalind.info/problems/deg/)  | [Solution](https://github.com/AhmedOs13/Rosalind-Bioinformatics/blob/main/Algorithmic%20Heights/03.%20Degree%20Array.py)  |
+04   | INS   | Insertion Sort      | [INFO](https://rosalind.info/problems/ins/)  | [Solution](https://github.com/AhmedOs13/Rosalind-Bioinformatics/blob/main/Algorithmic%20Heights/04.%20Insertion%20Sort.py) |
