@@ -81,3 +81,4 @@ No.  | ID    | Title                           | INFO     | Solution     |
 02   | BINS  | Binary Search       | [INFO](https://rosalind.info/problems/bins/) | [Solution](https://github.com/AhmedOs13/Rosalind-Bioinformatics/blob/main/Algorithmic%20Heights/02.%20Binary%20Search.py) |
 03   | DEG   | Degree Array        | [INFO](https://rosalind.info/problems/deg/)  | [Solution](https://github.com/AhmedOs13/Rosalind-Bioinformatics/blob/main/Algorithmic%20Heights/03.%20Degree%20Array.py)  |
 04   | INS   | Insertion Sort      | [INFO](https://rosalind.info/problems/ins/)  | [Solution](https://github.com/AhmedOs13/Rosalind-Bioinformatics/blob/main/Algorithmic%20Heights/04.%20Insertion%20Sort.py) |
+05   | DDEG  | Double-Degree Array | [INFO](https://rosalind.info/problems/ddeg/) | [Solution](https://github.com/AhmedOs13/Rosalind-Bioinformatics/tree/main/Algorithmic%20Heights)
