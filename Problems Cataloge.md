@@ -71,6 +71,7 @@ No.   | ID    | Title                                         | INFO     | Solut
 47 | SPEC | Inferring Protein from Spectrum | [INFO](https://rosalind.info/problems/spec/) | [Solution](https://github.com/AhmedOs13/Rosalind-Bioinformatics/blob/main/Bioinformatics%20Stronghold/47.%20Inferring%20Protein%20from%20Spectrum.py) |
 48 | EDIT | Edit Distance | [INFO](https://rosalind.info/problems/edit/) | [Solution](https://github.com/AhmedOs13/Rosalind-Bioinformatics/blob/main/Bioinformatics%20Stronghold/48.%20Edit%20Distance.py) |
 49 | NWCK | Distances in Trees | [INFO](https://rosalind.info/problems/nwck/) | [Solution](https://github.com/AhmedOs13/Rosalind-Bioinformatics/blob/main/Bioinformatics%20Stronghold/49.%20Distances%20in%20Trees.py) |
+50 | SCSP | Interleaving Two Motifs | [INFO](https://rosalind.info/problems/scsp/) | [Solution](https://github.com/AhmedOs13/Rosalind-Bioinformatics/blob/main/Bioinformatics%20Stronghold/50.%20Interleaving%20Two%20Motifs.py) |
 
 
 ## Algorithmic Heights
