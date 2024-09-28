@@ -74,6 +74,7 @@ No.   | ID    | Title                                         | INFO     | Solut
 50 | SCSP | Interleaving Two Motifs | [INFO](https://rosalind.info/problems/scsp/) | [Solution](https://github.com/AhmedOs13/Rosalind-Bioinformatics/blob/main/Bioinformatics%20Stronghold/50.%20Interleaving%20Two%20Motifs.py) |
 51 | SETO | Introduction to Set Operations | [INFO](https://rosalind.info/problems/seto/) | [Solution](https://github.com/AhmedOs13/Rosalind-Bioinformatics/blob/main/Bioinformatics%20Stronghold/51.%20Introduction%20to%20Set%20Operations.py) |
 52 | TRIE | Introduction to Pattern Matching | [INFO](https://rosalind.info/problems/trie/) | [Solution](https://github.com/AhmedOs13/Rosalind-Bioinformatics/blob/main/Bioinformatics%20Stronghold/52.%20Introduction%20to%20Pattern%20Matching.py) |
+53 | CONV | Comparing Spectra with the Spectral Convolution | [INFO](https://rosalind.info/problems/conv/) | [Solution](https://github.com/AhmedOs13/Rosalind-Bioinformatics/blob/main/Bioinformatics%20Stronghold/53.%20Comparing%20Spectra%20with%20the%20Spectral%20Convolution.py) |
 
 
 ## Algorithmic Heights
